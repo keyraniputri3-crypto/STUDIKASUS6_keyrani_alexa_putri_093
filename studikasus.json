@@ -1,0 +1,14 @@
+[
+    {
+        "nama": "Eja",
+        "nim": "2609116062",
+        "mata_kuliah": "Teknik Kimia",
+        "nilai": 100.0
+    },
+    {
+        "nama": "Eja",
+        "nim": "2609116062",
+        "mata_kuliah": "Teknik kimia",
+        "nilai": 100.0
+    }
+]
